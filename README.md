@@ -69,3 +69,5 @@ After:
 ![type_summary_b](https://user-images.githubusercontent.com/88510296/133004920-4194ba07-ce40-41ea-a8e9-83a1465a62d3.png)
 
 ## Summary
+
+The academic dishonesty and subsequent removal of Thomas High Schools ninth grade math and reading scores changed the schools metrics slightly. It did not, however change the school's ranking among the other schools in the district. Changes were measured in the Average Math Score, Average Reading Score, % Passing Math, % Passing Reading, and % Overall Passing.
